@@ -167,3 +167,9 @@ dmypy.json
 # OpenAPI-generated files
 openapi_generated/
 
+#process generated files
+processed/
+text/
+*-output.json
+*-output.parquet
+*-annoy_index.ann
